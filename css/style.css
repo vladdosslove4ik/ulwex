@@ -1,0 +1,106 @@
+body{ 	width: 1440px;
+	margin: 0px auto;
+	background-color: #ffffff;
+}
+div{
+	display: block;
+}
+.up{	padding: 20px 50px 15px;
+	background-color: #f4df22;
+}
+.headtext{	
+	font-family: Franklin Gothic;
+	padding: 10px 5px 15px; 
+	font-size: 38px;
+	font-kerning: normal;
+	font-stretch: ultra-condensed;
+}
+.middle{	
+	margin: 50px 20px;
+	align-items: center;
+}
+.group{
+	margin: 30px;
+}
+.lights{
+	max-width: 1440px;
+	background-color: #8B978C;
+	background-image: url(1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 600px;
+	padding: 30px;
+	text-align: center;
+
+	border-radius: 18px;
+}
+.name{	font-kerning: normal;
+	font-stretch: ultra-condensed;
+
+	font-family: Franklin Gothic;
+	padding: 20px;
+	margin-top: 180px;
+	margin-bottom: 25px;
+	font-size: 48px;
+	text-align: center;
+	color:#f4df21;
+}
+
+.menu{
+ 	border-radius: 3px;
+ 	border: 1px solid #f4df22;
+ 	text-align: center;
+ 	display: inline-block;
+}
+
+.item{	
+	text-align: center;
+	font-family: Franklin Gothic;
+	font-kerning: normal;
+	font-stretch: ultra-condensed;
+	color: #f4df22;
+	padding: 10px;
+	margin: 10px 10px;
+	display: inline-block;
+}
+a, a:active, a:hover{
+	text-decoration: none;
+}
+
+.item:hover{
+	color: #171715;
+	background-color: #f4df22;
+	border-radius: 1px;
+}
+.item:active{
+	color:#ffffff;
+	background-color: #f4df22;
+	border-radius: 2px;
+}
+.post{
+	margin: 45px auto;
+	max-width: 1170px;
+	background-image: url(fara6.jpg);
+	background-color: #8B978C;
+	background-repeat: no-repeat;
+	background-position: left;
+	border-radius: 18px;
+	height: 630px;
+}
+.information{
+	padding: 40px;
+}
+.title2{
+	font-size: 36px;
+	font-family: Franklin Gothic;
+	font-kerning: normal;
+	font-stretch: ultra-condensed;
+}
+.info{
+	font-size: 12px;
+	font-family: Franklin Gothic;
+	font-kerning: normal;
+	padding: 10px;
+	width: 45%;
+	
+}
