@@ -90,7 +90,7 @@ a, a:active, a:hover{
 
 
 .post .information {
-	padding: 40px !important;
+	padding: 40px ;
 	font-size: 12px;
 	font-family: Franklin Gothic;
 	font-kerning: normal;
@@ -106,7 +106,15 @@ a, a:active, a:hover{
 .post .information p {
 
 }
-.info{
-
+.info p{
+	font-size: 12px;
+	font-family: Franklin Gothic;
+	font-kerning: normal;
+	padding: 10px;
+	width: 45%;
 	
+}
+.row img{
+	max-width: 100%;
+	text-align: center;
 }
